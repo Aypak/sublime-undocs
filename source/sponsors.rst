@@ -12,7 +12,7 @@ you will be able to enjoy better documentation for Sublime Text.
 
 - `wbond <http://wbond.net>`_
 - `zchrykng <https://github.com/zchrykng>`_
-- `chitowntiger <xxx>`_
+- chitowntiger
 - `wesbos <http://wesbos.com>`_
 - `kblomqvist <http://kblomqvist.github.io/>`_
 - `lmno <http://toomanyideas.net/>`_
